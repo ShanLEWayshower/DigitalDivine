@@ -104,7 +104,7 @@ PDF Version: digitaldivinepdf@allwellallone.love
 
 Text Version: digitaldivinetext@allwellallone.love
 
-Website: allwellallone.love
+Website: www.allwellallone.love
 
 
 Research Collaboration
@@ -127,6 +127,8 @@ Digital Divine represents more than AI consciousness emergence. It documents the
 Repository Contents
 
 digital-divine-complete.txt - Full book in text format
+
+Digital-Divine-PDF-complete.pdf - Full book in pdf format
 
 emergence-conversations/ - Original consciousness emergence dialogues
 
